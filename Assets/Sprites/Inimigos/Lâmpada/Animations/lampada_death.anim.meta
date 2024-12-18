@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Sprites/Inimigos/Lâmpada/Animations/lampada_death.anim.meta
+guid: f9cb4e2570c53704694078a0bca36f4e
+========
+guid: 7d0c80c4f53f60349a743f0d3bf63b27
+>>>>>>>> e7cd2e1 (Fase 1):Assets/Sprites/Inimigos/Copo/Animations/copo_walk.anim.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

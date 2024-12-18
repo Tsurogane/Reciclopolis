@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Sprites/Dog/Animations/Dog.controller.meta
+guid: c68b7805bae66e0498cab03650ac22eb
+========
+guid: 8ad3a3cb948650046b54e433430c8dd4
+>>>>>>>> e7cd2e1 (Fase 1):Assets/Sprites/Inimigos/Copo/Animations/Enemy.controller.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

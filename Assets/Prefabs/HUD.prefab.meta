@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/HUD.prefab.meta
+guid: 5a57d21673bba1440aeef21e379568e2
+PrefabImporter:
+  externalObjects: {}
+========
+guid: 0194b0b6b8e0f5e4ca453dcc7d2bc590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>>> e7cd2e1 (Fase 1):Assets/Sprites/Personagens/Plastic Man/Animations/PLasticMan_Hurt.anim.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
